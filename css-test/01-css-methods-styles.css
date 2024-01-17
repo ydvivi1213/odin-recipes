@@ -1,0 +1,26 @@
+/*styles.css*/
+
+div {
+    background-color: red
+}
+
+p {
+    font-size: 18px;
+    background-color: green;
+}
+
+h4 {
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center
+}
+
+h3 {
+    font-size: 18px;
+    color: black;
+}
+
+button {
+    background-color: orange;
+}
